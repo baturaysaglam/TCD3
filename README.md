@@ -7,5 +7,5 @@ If you use our code or data please cite the [paper](https://arxiv.org/abs/2109.1
 The algorithm is tested on [MuJoCo](https://gym.openai.com/envs/#mujoco) and [Box2D](https://gym.openai.com/envs/#box2d) continuous control tasks. 
 Following computing infrastructure is used in producing the results.
 
-#Computing Infrastructure
+##Computing Infrastructure
 
