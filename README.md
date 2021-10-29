@@ -57,11 +57,13 @@ Following computing infrastructure is used to produce the results.
 
 
 ### Bibtex
-``@misc{saglam2021estimation,
+``
+@misc{saglam2021estimation,
       title={Estimation Error Correction in Deep Reinforcement Learning for Deterministic Actor-Critic Methods}, 
       author={Baturay Saglam and Enes Duran and Dogan C. Cicek and Furkan B. Mutlu and Suleyman S. Kozat},
       year={2021},
       eprint={2109.10736},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
-}``
+}
+``
