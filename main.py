@@ -65,6 +65,10 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    parser.print_help()
+
+    exit()
+
     file_name = f"{args.policy}_{args.env}_{args.seed}"
     print("---------------------------------------")
     print(f"Policy: {args.policy}, Env: {args.env}, Seed: {args.seed}")
