@@ -2,7 +2,7 @@
 PyTorch implementation of the _Triplet Critic Delayed Deep Deterministic Policy Gradient_ algorithm (TCD3). 
 Note that the implementation of the TD3 algorithm is heavily based on the [author's Pytorch implementation of the TD3 algorithm](https://github.com/sfujim/TD3). 
 
-The [paper](https://arxiv.org/abs/2109.10736#) was presented at [IEEE International Conference on Tools with Artificial Intelligence (ICTAI) 2021](https://ictai.computer.org/). The presentation slides and video are found under ./Presentation. If you use our code or data, please cite the [paper](https://arxiv.org/abs/2109.10736#).
+The [paper](https://arxiv.org/abs/2109.10736#) was presented at [IEEE International Conference on Tools with Artificial Intelligence (ICTAI) 2021](https://ictai.computer.org/). The presentation slides and video are found under [./Presentation](https://github.com/baturaysaglam/TCD3/tree/main/Presentation). If you use our code or data, please cite the [paper](https://arxiv.org/abs/2109.10736#).
 
 The algorithm is tested on [MuJoCo](https://gym.openai.com/envs/#mujoco) and [Box2D](https://gym.openai.com/envs/#box2d) continuous control tasks.
 
