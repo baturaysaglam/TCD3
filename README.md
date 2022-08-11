@@ -57,12 +57,14 @@ optional arguments:
 
 ### Bibtex
 ```
-@misc{saglam2021estimation,
-      title={Estimation Error Correction in Deep Reinforcement Learning for Deterministic Actor-Critic Methods}, 
-      author={Baturay Saglam and Enes Duran and Dogan C. Cicek and Furkan B. Mutlu and Suleyman S. Kozat},
-      year={2021},
-      eprint={2109.10736},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@INPROCEEDINGS{9643358,
+    author={Saglam, Baturay and Duran, Enes and Cicek, Dogan C. and Mutlu, Furkan B. and Kozat, Suleyman S.},
+    booktitle={2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI)},
+    title={Estimation Error Correction in Deep Reinforcement Learning for Deterministic Actor-Critic Methods},
+    year={2021},
+    volume={},
+    number={},
+    pages={137-144},
+    doi={10.1109/ICTAI52525.2021.00027}
 }
 ```
